@@ -1,0 +1,27 @@
+{
+  "name": "node-is-ancestor-of",
+  "description": "check if node is ancestor of descendant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node ancestor of",
+    "check node ancestor"
+  ],
+  "author": {
+    "name": "Roman Masyhar",
+    "email": "mhrohman@live.com",
+    "url": "https://github.com/rohmanhm"
+  },
+  "repository": "rohmanhm/node-is-ancestor-of",
+  "devDependencies": {
+    "jest": "^20.0.0",
+    "jest-cli": "^20.0.0"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
