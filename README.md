@@ -1,4 +1,6 @@
 # 👨‍👦 Node is ancestor of
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/node-is-ancestor-of.svg)](https://greenkeeper.io/)
  [![Build Status](https://travis-ci.org/rohmanhm/node-is-ancestor-of.svg?branch=master)](https://travis-ci.org/rohmanhm/node-is-ancestor-of)
 
 Check if node is ancestor of descendant
