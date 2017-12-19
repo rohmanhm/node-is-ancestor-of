@@ -19,7 +19,7 @@
   "repository": "rohmanhm/node-is-ancestor-of",
   "devDependencies": {
     "jest": "^22.0.0",
-    "jest-cli": "^21.0.2"
+    "jest-cli": "^22.0.2"
   },
   "jest": {
     "verbose": true
