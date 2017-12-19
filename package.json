@@ -18,8 +18,8 @@
   },
   "repository": "rohmanhm/node-is-ancestor-of",
   "devDependencies": {
-    "jest": "^21.0.0",
-    "jest-cli": "^22.0.0"
+    "jest": "^22.0.0",
+    "jest-cli": "^21.0.2"
   },
   "jest": {
     "verbose": true
